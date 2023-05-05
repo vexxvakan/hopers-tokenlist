@@ -1,6 +1,6 @@
 {
-	"tokens": [
-		{
+	"tokens": {
+		"juno": {
 			"denom": "ujuno",
 			"fullName": "Junø",
 			"symbol": "JUNO",
@@ -9,7 +9,7 @@
 			"isIBCCoin": false,
 			"decimal": 6
 		},
-		{
+		"hopers": {
 			"denom": "hopers",
 			"fullName": "Hopers",
 			"symbol": "HOPERS",
@@ -19,5 +19,5 @@
 			"decimal": 6,
 			"contractAddress": "juno1u45shlp0q4gcckvsj06ss4xuvsu0z24a0d0vr9ce6r24pht4e5xq7q995n"
 		}
-	]
+	}
 }
